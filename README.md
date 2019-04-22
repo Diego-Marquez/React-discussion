@@ -1,2 +1,0 @@
-# react-discussion
-Discussion System
